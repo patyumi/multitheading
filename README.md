@@ -1,6 +1,3 @@
-# multitheading
-Desafio Go usando Multithreading e APIs para buscar o resultado mais rápido entre duas APIs distintas.
-
 <h1 align="center"> MULTITHREADING </h1>
 
 <p align="center"> Aplicação prática de Multithreading e APIs com Go, ele exibe o resultado mais rápido entre duas APIs distintas.</p>
